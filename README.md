@@ -16,8 +16,9 @@ The projects cover the folloiwing topics in Deep Learning:
   10) Embeddings & word2vec 
   11) Sentiment Prediction 
   12) Generating a TV Script 
-  13) GAN's, Semi- super vised learning 
+  13) GAN's, Semi- supervised learning 
   14) Generating faces using GAN's
-  15) Reinforcement Learning 
+  15) Reinforcement Learning (RL)
+  16) Teach a quad how to fly using RL
   
   
